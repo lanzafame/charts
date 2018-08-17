@@ -18,6 +18,6 @@ entries:
     digest: b1ec5bd054837938329306a407f06a9943ca74ee224614da69c909a4e80af827
     name: ipfs-cluster-minikube
     urls:
-      - https://raw.githubusercontent.com/lanzafame/charts/master/repo/ipfs-cluster-minikube-0.1.0.tgz
+      - https://ipfs.io/ipfs/QmaFr8W5XyAcrunEbnRCVsfYS9mh1i5wsbGibXvvCtsHyr
     version: 0.1.0
 generated: 2018-08-17T12:21:18.557300481+10:00
