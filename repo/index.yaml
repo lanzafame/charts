@@ -8,6 +8,6 @@ entries:
     digest: 8d369532d3c0ef852e332cf273ad74b5ae56ba9943efd38f891edcb6cc85a1db
     name: ipfs-cluster
     urls:
-    - https://raw.githubusercontent.com/lanzafame/charts/master/ipfs-cluster-0.1.0.tgz
+    - https://raw.githubusercontent.com/lanzafame/charts/master/repo/ipfs-cluster-0.1.0.tgz
     version: 0.1.0
 generated: 2018-08-17T10:37:28.725816114+10:00
