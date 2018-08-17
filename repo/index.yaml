@@ -3,11 +3,21 @@ entries:
   ipfs-cluster:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-17T10:37:28.726313834+10:00
+    created: 2018-08-17T12:21:18.557733651+10:00
     description: ipfs-cluster helm chart
     digest: 8d369532d3c0ef852e332cf273ad74b5ae56ba9943efd38f891edcb6cc85a1db
     name: ipfs-cluster
     urls:
-    - https://raw.githubusercontent.com/lanzafame/charts/master/repo/ipfs-cluster-0.1.0.tgz
+      - https://raw.githubusercontent.com/lanzafame/charts/master/repo/ipfs-cluster-0.1.0.tgz
     version: 0.1.0
-generated: 2018-08-17T10:37:28.725816114+10:00
+  ipfs-cluster-minikube:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-08-17T12:21:18.558047965+10:00
+    description: ipfs-cluster helm chart
+    digest: b1ec5bd054837938329306a407f06a9943ca74ee224614da69c909a4e80af827
+    name: ipfs-cluster-minikube
+    urls:
+      - https://raw.githubusercontent.com/lanzafame/charts/master/repo/ipfs-cluster-minikube-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-08-17T12:21:18.557300481+10:00
