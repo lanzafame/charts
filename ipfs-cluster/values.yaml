@@ -3,8 +3,8 @@
 replicaCount: 1
 
 image:
-  tag: latest
-  ipfsTag: latest
+  tag: v0.5.0
+  ipfsTag: master
   pullPolicy: IfNotPresent
 
 # Insert here the secret environment that will be used by ipfs-cluster
